@@ -125,6 +125,11 @@
   font-weight: 500;
 }
 
+footer {
+ color: 'red';
+  fontsize: 15px;
+}
+
 .CTA {
   background-color: #f94626;
   padding: 1em;
